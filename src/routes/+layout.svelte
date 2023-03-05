@@ -13,7 +13,7 @@
 		<Header />
 	</svelte:fragment>
 	<!-- Router Slot -->
-	<main class="-mt-28 grid min-h-screen place-items-center">
+	<main class="container mx-auto px-8">
 		<slot />
 	</main>
 </AppShell>
